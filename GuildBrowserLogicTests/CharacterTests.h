@@ -6,8 +6,8 @@
 //  Copyright (c) 2015 Charlie Fulton. All rights reserved.
 //
 
-#import <SenTestingKit/SenTestingKit.h>
+#import <XCTest/XCTest.h>
 
-@interface CharacterTests : SenTestCase
+@interface CharacterTests : XCTestCase
 
 @end
